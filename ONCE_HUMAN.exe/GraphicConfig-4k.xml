@@ -1,0 +1,34 @@
+<Graphic>
+	<Base>
+		<setting_resolution>(3840, 2160)</setting_resolution>
+		<setting_display_mode>1</setting_display_mode>
+		<setting_brightness>50</setting_brightness>
+		<quality_is_custom>0</quality_is_custom>
+		<quality_is_custom>0</quality_is_custom>
+		<setting_image_sharpening>0</setting_image_sharpening>
+	</Base>
+	<Advanced>
+		<setting_motion_blur>3</setting_motion_blur>
+		<setting_special_effects>4</setting_special_effects>
+		<setting_nvidia_super_resolution>2</setting_nvidia_super_resolution>
+		<setting_screen_space_shadows>1</setting_screen_space_shadows>
+		<setting_vertical_synchronization>0</setting_vertical_synchronization>
+		<setting_render_scale>100</setting_render_scale>
+		<setting_nvidia_reflex>0</setting_nvidia_reflex>
+		<setting_grass_density>2</setting_grass_density>
+		<setting_shadow>1</setting_shadow>
+		<setting_texture_quality>1</setting_texture_quality>
+		<setting_amd_super_resolution>0</setting_amd_super_resolution>
+		<setting_frame_insertion>0</setting_frame_insertion>
+		<setting_screen_space_reflection>1</setting_screen_space_reflection>
+		<setting_detail_level>1</setting_detail_level>
+		<setting_quality_mode>4</setting_quality_mode>
+		<setting_intel_super_resolution>2</setting_intel_super_resolution>
+		<setting_image_intensification>3</setting_image_intensification>
+		<setting_enable_d3d12>1</setting_enable_d3d12>
+		<setting_anti_aliasing>2</setting_anti_aliasing>
+		<setting_fps_limit>3</setting_fps_limit>
+		<setting_visual_distance>3</setting_visual_distance>
+		<setting_use_d3d12>1</setting_use_d3d12>
+	</Advanced>
+</Graphic>
